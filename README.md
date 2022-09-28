@@ -1,13 +1,25 @@
-# Sample Hardhat Project
+# Odusanya 🐙
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Odusanya is a arbitrage trading bot for EVM compatible chains written in Javascript.
 
-Try running some of the following tasks:
+## Installation
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+git clone https://github.com/rayorole/odusanya.git
+yarn
 ```
+## Startup
+
+```shell
+yarn node
+yarn deploy
+yarn start
+```
+
+## Contributing
+
+-> Pull requests
+
+## License
+
+MIT © Ray Orolé 2022

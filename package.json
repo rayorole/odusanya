@@ -10,6 +10,7 @@
   "scripts": {
     "start": "nodemon index.js",
     "test": "yarn hardhat test",
+    "node": "yarn hardhat node",
     "deploy": "yarn hardhat run scripts/deploy.js"
   },
   "devDependencies": {
