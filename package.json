@@ -6,5 +6,12 @@
   "repository": "https://github.com/rayorole/odusanya.git",
   "author": "Ray Orolé <orole.ray@protonmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "hardhat": "^2.11.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "web3": "^1.8.0"
+  }
 }
