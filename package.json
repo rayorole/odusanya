@@ -1,0 +1,10 @@
+{
+  "name": "odusanya",
+  "version": "1.0.0",
+  "description": "Odusanya is a arbitrage trading bot for EVM compatible chains written in Javascript.",
+  "main": "index.js",
+  "repository": "https://github.com/rayorole/odusanya.git",
+  "author": "Ray Orolé <orole.ray@protonmail.com>",
+  "license": "MIT",
+  "private": false
+}
